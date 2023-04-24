@@ -44,6 +44,6 @@ export const Title = styled.h3`
   color: black;
   border-bottom: none;
   :hover {
-    color: #44a9ed;
+    color: orangered;
   }
 `;
